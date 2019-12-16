@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+
+body{
+    background-color: pink;
+}
+.text-shadow{
+    text-shadow: 1px 1px 0px;
+}
+h2{
+    font-family: 'Bangers', cursive;
+}
+
+
+
+/* nav */
 ul li{
     list-style: none;
     float: right;
@@ -5,8 +20,59 @@ ul li{
 }
 a:link{
     text-decoration: none;
-    color: black;
+    color: white;
+    font-family: 'Bangers', cursive;
+
 }
 a:hover{
-    color: purple;
+    color: black;
 }
+/* end nav */
+
+
+/* header */
+header{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Bangers', cursive;
+    margin-left: ;
+}
+/* end header */
+
+
+/* article */
+.article-p{
+    
+}
+figure{
+    padding:10px;
+    margin-bottom: 10px;
+}
+figcaption{
+    margin-left: 50px;
+}
+article{
+    padding:30px;
+}
+/* end article */
+
+
+
+/* section */
+.section-p{
+
+}
+section{
+    padding:30px;
+}
+/* end section */
+
+
+
+/* aside */
+aside{
+    float:right;
+    padding:30px;
+}
+/* end aside */
