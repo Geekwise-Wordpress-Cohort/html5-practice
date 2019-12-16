@@ -1,0 +1,12 @@
+ul li{
+    list-style: none;
+    float: right;
+    padding: 15px;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: purple;
+}
